@@ -19,7 +19,7 @@ I'm a full-stack software engineer @ JPMorganChase with passion for backend and 
 - Other: Git, Linux, Bash, REST
 - AWS Developer Associate Certified
 
-  ![AWS Developer Associate](https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png "AWS Developer Associate")
+  ![AWS Developer Associate](https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png "AWS Developer Associate")
 
 ## Featured projects
 
