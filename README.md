@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Jenia!
 
-<!--
-**jenia90/jenia90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer @ JPMorganChase with passion for backend and infra.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Full-stack - React+TypeScript & Python
+- Backend & infrastructure engineering
+- Embedded & low-level system programming (ESP32, Raspberry Pi)
+- Automation and tooling
+
+## Tech & tools
+
+- Languages: Python, TypeScript — learning Rust
+- Infrastructure: Docker, Kubernetes basics, CI/CD
+- Embedded: ESP32, Raspberry Pi, microcontroller automation
+- Other: Git, Linux, Bash, REST, gRPC
+
+## Featured projects
+
+I keep a mix of backend, infra, and embedded projects in this account. A few highlights you can explore on my profile:
+
+- Automation projects for home and lab using ESP32 and Raspberry Pi
+- Backend services and tooling written in Python and TypeScript
+- System-level experiments in Rust (WIP)
+  
+## Fun / Contact
+
+- Always up for collaboration on automation, systems, and infrastructure.
+- I enjoy tinkering with low-level hardware and building reliable software to glue things together.
+
+---
+
+_Made with ❤️ by Jenia — let's build something cool._
