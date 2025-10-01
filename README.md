@@ -16,7 +16,10 @@ I'm a full-stack software engineer @ JPMorganChase with passion for backend and 
 - Languages: Python, TypeScript — learning Rust
 - Infrastructure: Docker, Kubernetes basics, CI/CD
 - Embedded: ESP32, Raspberry Pi, microcontroller automation
-- Other: Git, Linux, Bash, REST, gRPC
+- Other: Git, Linux, Bash, REST
+- AWS Developer Associate Certified
+
+  ![AWS Developer Associate](https://images.credly.com/size/220x220/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png "AWS Developer Associate")
 
 ## Featured projects
 
